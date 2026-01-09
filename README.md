@@ -3,7 +3,7 @@
 
 Ein interaktives Verkaufs-Dashboard zur Analyse des kompletten Jahresumsatzes 2024 eines fiktiven IT-Hardware-Händlers.
 
-![Dashboard Screenshot](dashboard-screenshot.png)  
+![Dashboard Screenshot](Dashboard_1.png)  
 *(empfohlen: hochauflösenden Screenshot ganz oben rein – am besten im Light- und Dark-Theme)*
 
 ## Über das Projekt
