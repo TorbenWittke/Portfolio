@@ -55,14 +55,10 @@ Ziel war es, aus einer eher unstrukturierten Verkaufs-Rohdatenbasis (Transaktion
 - Heatmap nach Land/Region
 - Warnsystem bei kritischen Marge-Einbrüchen
 - Automatische monatliche PDF-Reports per E-Mail
+- Automatisierung der Spalten auf der linken Seite des Dashboardes
 
 ## Feedback sehr willkommen!
 
 Da es mein erstes größeres Dashboard ist, freue ich mich riesig über konstruktives Feedback – egal ob zum Design, zur Story, zu den Kennzahlen oder zur technischen Umsetzung.
 
-Vielen Dank fürs Anschauen! 🙌
-
----
-
-⭐ Wenn dir das Projekt gefällt – gerne einen Stern dalassen!  
-💬 Fragen, Verbesserungsvorschläge, Kritik → gerne in den Issues oder per Kontakt
+Vielen Dank fürs Anschauen!
