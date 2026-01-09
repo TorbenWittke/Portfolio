@@ -47,18 +47,9 @@ Ziel war es, aus einer eher unstrukturierten Verkaufs-Rohdatenbasis (Transaktion
 - **Europa** dominiert klar mit **40 %** des Gesamtumsatzes
 - Auffällig: Asien hat trotz geringerem Umsatzanteil (23 %) relativ gute Margen
 
-## Wie man das Dashboard anschaut / benutzt
-
-1. Dashboard-Datei herunterladen (je nach Tool: .pbix / .twbx / .lookml etc.)
-2. Entweder:
-   - Power BI Desktop öffnen (kostenlos)
-   - Tableau Reader nutzen
-   - Link zum veröffentlichten Dashboard (falls online gestellt)
-3. Optional: Rohdaten + Transformationsskripte im Ordner `/data` und `/transformation`
-
 ## Nächste Schritte / geplante Erweiterungen
 
-- Vergleich mit Vorjahr 2023
+- Vergleich mit Vorjahr 2023 (fiktiv)
 - Prognose-Funktion für 2025 (einfaches Trend-Modell)
 - Detaillierte Kundenanalyse (ABC-Kunden, Wiederholungskäufer)
 - Heatmap nach Land/Region
