@@ -34,7 +34,7 @@ Ziel war es, aus einer eher unstrukturierten Verkaufs-Rohdatenbasis (Transaktion
 | Bereich               | Technologie/Tools                          
 |-----------------------|--------------------------------------------
 | Datenaufbereitung     | Python (Pandas), SQL                       
-| Visualisierung        | Power BI / Tableau / Looker Studio         
+| Visualisierung        | Power BI     
 | Versionskontrolle     | Git + GitHub                               
 | Dokumentation         | Markdown                                   
 
