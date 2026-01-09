@@ -31,13 +31,12 @@ Ziel war es, aus einer eher unstrukturierten Verkaufs-Rohdatenbasis (Transaktion
 
 ## Technologie-Stack
 
-| Bereich               | Technologie/Tools                          | Bemerkung                                  |
-|-----------------------|--------------------------------------------|--------------------------------------------|
-| Datenaufbereitung     | Python (Pandas), SQL                       | Bereinigung & Transformation               |
-| Datenmodell           | Star-Schema (Faktentabelle + Dimensionen)  | sauberes, skalierbares Modell              |
-| Visualisierung        | Power BI / Tableau / Looker Studio         | (bitte ergänzen, womit du es gemacht hast) |
-| Versionskontrolle     | Git + GitHub                               | Public Repository                          |
-| Dokumentation         | Markdown                                   | Diese README + ggf. separate Dokumentation |
+| Bereich               | Technologie/Tools                          
+|-----------------------|--------------------------------------------
+| Datenaufbereitung     | Python (Pandas), SQL                       
+| Visualisierung        | Power BI / Tableau / Looker Studio         
+| Versionskontrolle     | Git + GitHub                               
+| Dokumentation         | Markdown                                   
 
 ## Erkenntnisse & Storytelling-Highlights
 
