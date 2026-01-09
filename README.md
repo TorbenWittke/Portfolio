@@ -1,4 +1,4 @@
-# Verkaufs-Dashboard – IT-Hardware (Drucker, Monitore, Laptops, Server)  
+# Verkaufs-Dashboard – IT-Hardware
 **Januar 2024 – Juni 2024**
 
 Ein interaktives Verkaufs-Dashboard zur Analyse des Jahresumsatzes bis Juni 2024 eines fiktiven IT-Hardware-Händlers.
