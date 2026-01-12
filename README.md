@@ -96,10 +96,6 @@ Modernes, interaktives Business-Intelligence-Dashboard zur Visualisierung von Um
 
 Das Projekt zeigt damit sehr gut einen **kompletten BI-Workflow**: von der Datenbasis (Python/SQL) über Design (PowerPoint) bis hin zur interaktiven Präsentation (Power BI).
 
-### Datenherkunft
-
-Alle Zahlen sind **fiktiv**, aber realistisch generiert via Python-Skripte (z. B. mit pandas/numpy für saisonale Schwankungen, regionale Verteilung etc.). SQL-Abfragen dienten der finalen Aggregation.
-
 ### Nächste Schritte / Erweiterungen (geplant)
 
 - [ ] Vollständiges SQL-Datenmodell (Star-Schema)  
