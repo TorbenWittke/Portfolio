@@ -1,0 +1,43 @@
+# 2025 Performance Dashboard – IT-Hardware Umsatz- & Kosten-Analyse
+
+Modernes, interaktives Business-Intelligence-Dashboard zur Visualisierung von Umsatz-, Kosten- und Performancedaten eines fiktiven IT-Hardware-Unternehmens (Report 2025, Halbjahresdaten Jan–Jun).
+
+![Dashboard Übersicht 2025](screenshots/dashboard-2025-full.png)  
+*Gesamtansicht: KPI-Karten, regionale Donut-Charts, Produktkategorien, Top-Performer Mitarbeiter und monatliche Umsatz-/Kosten-Trends*
+
+## Projekt-Highlights
+
+- **Gesamtumsatz**: 22 Mio. €  
+- **Gesamtkosten**: 16 Mio. €  
+- **Erkennbare Insights**: Europa dominiert Umsatz, Drucker sind stärkste Produktkategorie, Januar ist Peak-Monat bei Umsatz & Kosten, Top-Performer generieren bis zu 5 Mio. €  
+- **Dark-Theme Design** mit hohem Kontrast und konsistenter Farbcodierung (Orange = Umsatz, Blau = Kosten)
+
+## Verwendete Technologien & Tools
+
+| Bereich              | Technologie/Tool          | Verwendung / Beitrag                                                                 |
+|----------------------|---------------------------|--------------------------------------------------------------------------------------|
+| Datenaufbereitung    | **Python**                | Daten-Generierung, Bereinigung, Aggregation, Berechnung von Prozentanteilen & KPIs   |
+| Datenquelle / Query  | **SQL**                   | Strukturierte Abfragen für monatliche Summen, Gruppierungen nach Region/Kategorie/Mitarbeiter |
+| Visual Design        | **Microsoft PowerPoint**  | Erstellung des Layout-Konzepts, Farbschema, Mockup-Design und finale Grafik-Elemente (Export als PNG/SVG) |
+| Dashboard-Entwicklung| **Microsoft Power BI**    | Interaktives Dashboard mit Donut-Charts, Balkendiagrammen, KPI-Karten, Region-Filter und Tooltips |
+| Deployment           | GitHub Pages / Static Export | Hosting des finalen Dashboards als interaktive Web-Ansicht (Power BI Publish to Web oder Embedded) |
+
+## Warum diese Kombination?
+
+- **Python + SQL** → Realistische Datenpipeline simulieren (ETL-ähnlich)  
+- **PowerPoint** → Professionelles, pixelgenaues Design und Storytelling-Layout (ideal für Präsentationen & Portfolio)  
+- **Power BI** → Schnelle Erstellung interaktiver, filterbarer Visuals mit nativem Business-Intelligence-Look & Feel  
+
+Das Projekt zeigt damit sehr gut einen **kompletten BI-Workflow**: von der Datenbasis (Python/SQL) über Design (PowerPoint) bis hin zur interaktiven Präsentation (Power BI).
+
+### Datenherkunft
+
+Alle Zahlen sind **fiktiv**, aber realistisch generiert via Python-Skripte (z. B. mit pandas/numpy für saisonale Schwankungen, regionale Verteilung etc.). SQL-Abfragen dienten der finalen Aggregation.
+
+### Nächste Schritte / Erweiterungen (geplant)
+
+- [ ] Vollständiges SQL-Datenmodell (Star-Schema)  
+- [ ] DAX-Maße für erweiterte KPIs (z. B. Marge %, YoY-Vergleich)  
+- [ ] Power BI Custom Visuals im Dashboard  
+- [ ] Light-/Dark-Mode Toggle  
+- [ ] Export-Funktion (PDF/Excel)
